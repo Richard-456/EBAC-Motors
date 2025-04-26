@@ -112,11 +112,6 @@ section h2 {
     border-radius: 8px;
 }
 
-.lista-veiculos li strong{
-    margin: 16px 0;
-    display: block;
-}
-
 .price {
     margin: 16px 0;
     display: block;
